@@ -1,0 +1,140 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color:#1E1A13
+}
+h1{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    border: 0px;
+}
+header iguanaPrincipal{
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    padding-bottom: 0px;
+    background-color: #000000;
+
+}
+.secMedio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background-color: black;
+    margin-top: 0px;
+    border-top: 0px;
+    padding-top: 0px;
+}
+.iguana-1{
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+}
+.parrafo1{
+    top: 876px;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+    color: aliceblue;
+}
+.caracter{
+    top: 1141px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background-color: #1E1A13;
+    color: aliceblue;
+    
+}
+.caracter2{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.caracter h2{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E1A13;
+        
+}
+.caracteristicas p{
+    text-align: center;
+}
+.tercerOjo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.fa-eye{
+    top: 1333px;
+    left: 326px;
+    width: 57px;
+    height: 37px;
+}
+.pacifica{
+    top: 1313px;
+    left: 620px;
+    width: 39px;
+    height: 56px;
+}
+.cambioColor{
+    top: 1320px;
+    left: 915px;
+    width: 41px;
+    height: 49px;
+}
+.imgIguana{
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #000000;
+}
+.iguana-2{
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+}
+.iguana-3{
+    top: 1561px;
+    left: 482px;
+    width: 316px;
+    height: 202px;
+}
+.iguana-4{
+    top: 1561px;
+    left: 814px;
+    width: 316px;
+    height: 202px;
+}
+footer{
+    background-color: #1E1A13;
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+    align-content: space-around;
+}
